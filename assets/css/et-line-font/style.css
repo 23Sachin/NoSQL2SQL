@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'et-line';
-	src:url('.\assets\fonts\et-line.eot');
-	src:url('.\assets\fonts\et-line.eot?#iefix') format('embedded-opentype'),
-		url('.\assets\fonts\et-line.woff') format('woff'),
-		url('.\assets\fonts\et-line.ttf') format('truetype'),
-		url('.\assets\fonts\et-line.svg#et-line') format('svg');
+	src:url('assets\fonts\et-line.eot');
+	src:url('assets\fonts\et-line.eot?#iefix') format('embedded-opentype'),
+		url('assets\fonts\et-line.woff') format('woff'),
+		url('assets\fonts\et-line.ttf') format('truetype'),
+		url('assets\fonts\et-line.svg#et-line') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -344,11 +344,11 @@ you can use the generic selector below, but it's slower:
 
 @font-face {
   font-family: 'icon';
-  src:  url('.\assets\fonts\test\icon.eot');
-  src:  url('.\assets\fonts\test\icon.eot') format('embedded-opentype'),
-    url('.\assets\fonts\test\icon.ttf') format('truetype'),
-    url('.\assets\fonts\test\icon.woff') format('woff'),
-    url('.\assets\fonts\test\icon.svg') format('svg');
+  src:  url('assets\fonts\test\icon.eot');
+  src:  url('assets\fonts\test\icon.eot') format('embedded-opentype'),
+    url('assets\fonts\test\icon.ttf') format('truetype'),
+    url('assets\fonts\test\icon.woff') format('woff'),
+    url('assets\fonts\test\icon.svg') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
